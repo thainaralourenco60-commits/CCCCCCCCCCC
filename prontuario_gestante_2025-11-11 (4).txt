@@ -1,0 +1,160 @@
+MODELO - NÃO APAGAR
+
+Nome (RG): apresenta diagnóstico de Diabetes Gestacional em uso de
+insulina e histórico de Sífilis tratada, 35a, G4P2, 20HPPOC, Gest 373 (USG 6S3D), SBG, TS ___
+
+Internação: 09/11/2025 HD: de DG
+TOTG 24/03 2-2
+HbA1c 04/07 5,4%
+HbA1c 24/10 5,0%
+Sífilis (VDRL) 26/03 1/4 Positivo
+Parto: 09/11/2025 (12:23)
+
+PNBR: UBS (SÃO RAFAEL), 10 consultas, 1ª consulta com 16s3d
+
+PNAR: HC, X consultas, (12/06) tomou medicação? ___
+
+AO → G1 - Aborto há 17anos- pai A
+G2 - Cesárea 2010, RCF, 37s - pai A
+G3 - 40s, Parto normal 2014 - pai B
+G4 - Atual - pai B
+
+AP → comorbidades anteriores? e AO:
+Aborto - não sabe a data - pai A
+Cesárea 2010 - pai A
+Parto normal 2014 - pai B
+Atual - pai B vícios? ___
+
+Em uso: Nifedipino 40 mg/d 
+               Metformina 2g/dia (aj 12/06), 
+               Insulina NPH 12-8-14 (aj 09/11), 
+               Insulina regular 2-4-4 (aj 28/08), 
+               AAS 100mg/d, 
+               Cálcio 1g/d, Vit D 2000 UI/d, 
+               Sulfato ferroso 80mg/d
+               ENOXA 40MG/D
+
+HMA: Paciente regulada via samu devido a ROPREMA às 6h40. Nega sangramento VV. Nega queixas genitourinárias.
+
+Controles no repouso/puerpério: 24/10, PA 140x80 
+PA: 120/80
+
+HGT:
+00h: - 3h: - 6h: - 8h: - 10h: - 13h: - 17h: - 20h: - 22h: -
+
+Histórico: ___
+
+RN:
+Peso: ___ (AIG/GIG/PIG)
+RNPT (36+1)
+Apgar: 9/10
+Sexo: F
+Amamentando: ___
+Alojado?: ___
+
+EXAMES LABORATORIAIS:
+Exames internação: Ex (27/03): TSH 4.4, t4l 1.08, toxo IgG e IgM nr, HbA1c 8.5, GJ 170, vit D 18.44, B12 150, parasitológico neg, UR1 nl, URC neg Ex (27/05): ANTI- TIREOGLOBULINA 15.6, ANTI-TPO 12.3, CLEARENCE DE CREATININA 137.63, PROTEINÚRIA 24h 0.09, Creat 0.54, Ureia 11, HDL 62, LDL 127, T4 1.16, TSH 2,06, HBA1C 6%             RX tórax (14/06): nl ECG (14/06): nl Labs (12/07/25): rubéola IgG R / toxo IgG NR / toxo IgM NR / urina 1: sem alterações / urocultura: negativo / glicose sérica 69 / Hb 13,2 / Ht 38,7 / Leuco 9.060 / Plaq 331 mil / Vit B12 350 / Vit D: 38 / anti-Hbs 793 / ferritina 28 / TSH 3,02 / T4 livre 1,07 / HbSag NR / Hep C NR / HIV NR / sífilis NR FO (03/09): sem alterações (12/09): Hb 13, Ht 40, Plaq 323mil, Hba1c 5%, GJ 65, ferritina 10, VITD 35, TSH 2.65, t4l 1.04, b12 354, SOROLOGIAS NR, homocisteina 5.8 Exs ext 25/10: LDH 149 | Cr 0,5 | AcidU 5,6 | Prot 24h 129,8 | BT 0,29; BD 0,09; BI 0,20 | TGO 15 | TGP 14
+
+1º TMT (até 13s):
+- Tipagem: ___ | CI: ___ | Hb: ___ | Ht: ___ | L: ___ | P: ___ | GJ: ___ | Vit D: ___ | Vit B12: ___
+- VDRL: ___ | HIV: ___ | Toxo: ___ | HTLV: ___ | Rubeola: ___ | HbsAg: ___ | Anti-Hbs: ___ | Anti-HCV: ___ | CMV: ___
+- Urina I: ___ | URC: ___ | Parasitológico: ___
+
+2º TMT (14-26s):
+- CI (24 sem): ___ | TOTG: ___
+- Toxo IgM: ___ | HIV: ___ | VDRL: ___
+- URC: ___
+
+3º TMT (27s até parto):
+- CI (4/4 sem): ___ | Hb: ___ | Ht: ___ | L: ___ | P: ___ | GJ: ___ | Vit D: ___ | Vit B12: ___
+- Toxo IgM: ___ | HIV: ___ | VDRL: ___
+- URC: ___ | Cultura SGB (35-37s): ___
+
+EXAMES DE IMAGEM:
+- 1° USG TV (8 a 10s): ___
+- USG morfológico 1º TMT (11 a 13s6d): feto único, TN 1.7 mm, ON+, área suavidade presente, hematoma ausente
+- USG morfológico 2º TMT (20 a 24s): Cef, XXXg (pXX), PTCAGX, ILA X, Morfologia normal
+- USG Obstétrico (28s): Cef, XXXg (pXX), PTCAGX, ILA X
+- USG Obstétrico (32s): Cef, XXXg (pXX), PTCAGX, ILA X
+- USG Obstétrico (36s): Cef, XXXg (pXX), PTCAGX, ILA X
+
+
+=== RESUMO CLÍNICO PERSONALIZADO ===
+
+HIPERTENSÃO ARTERIAL CRÔNICA (HAC)
+==================================
+
+Definição: HAS (<20s ou >12s puerpério), sem LOA e FR.
+
+Critérios Diagnóstico: PA ≥140/90 antes de 20 semanas ou persistente após 12 semanas pós-parto.
+
+Classificação: HAC-BR (baixo risco): sem crise, não apresentar alterações. HAC-AR (alto risco): >40a, >5a HAS, crise hipertensiva início gest, DM, OBG3, dislipidemia, card/nefropatia, IAM/AVE prévio, colagenoses.
+
+Medicações: Metildopa 500mg-3g/d (1ª linha, ação lenta 3-6h, ideal início HAC-BR) | Nifedipina 30-120mg/d (DM/vasculopatia, fraqueza muscular) | IECA/BRA contraindicados (RCF, oligo, insuf renal neonatal). Crise: Clonidina 0,2mg VO | Nifedipina 10mg VO.
+
+Seguimento: Alvo PA: HAC-BR 140-150/90-100 | HAC-AR <140/90. Pesquisar proteinúria (diag diferencial PE). Avaliação LOA: ECG, Rx tórax, Ur, Cr, AcU, prot 24h, clearence Cr, ur1, uroc, eletrólitos, fundoscopia, HMG, lipidograma, TGO/TGP. Pesquisa PESA: fita reagente pré-natal a partir 24ª sem. Se ≥2+: R P/C.
+
+Pontos Importantes: IECA e BRA contraindicados. Lactação: bloqueadores canais Ca (Nifedipina) e betabloqueadores (propranolol, metoprolol). HAC-AR: retornar medicação pré-gestacional (exceto BRA e atenolol). Critérios PESA: HAC sem proteinúria com proteinúria recente (>0,3g/24h) OU proteinúria pré-existente + crise, sinais eminência, TGO↑, plaquetopenia.
+
+Tempo de Parto: HAC-BR isolada, controlada SEM medicação: 38-40s. HAC-BR isolada, COM medicação: 37-40s. HAC-AR: 36-37s. HA refratária, PESA ou RCF: internação p/ vigilância materno-fetal (se ≥34s = resolver).
+
+
+--------------------------------------------------------------------------------
+
+DIABETES MELLITUS (DM1/DM2)
+===========================
+
+Definição: Diabetes diagnosticado antes da gestação.
+
+Critérios Diagnóstico: História de DM prévia à gestação.
+
+Medicações: Insulina (ajustar doses conforme controle glicêmico).
+
+Seguimento: Avaliação LOA: fundoscopia, função renal, ecocardiograma. Solicitar eco fetal. Controle glicêmico rigoroso.
+
+Pontos Importantes: Maior risco de malformações congênitas, macrossomia, polidrâmnio, PE. Causa de morte fetal: cetoacidose, hipoglicemia.
+
+Tempo de Parto: Individualizado conforme controle e complicações.
+
+
+--------------------------------------------------------------------------------
+
+POLIDRÂMNIO
+===========
+
+Definição: Aumento do volume de líquido amniótico.
+
+Critérios Diagnóstico: ILA >24cm (grave) | ILA 18.1-23.9 (aumentado) | MB >8cm.
+
+Classificação: Leve (ILA 24-29.9 / MB 8.1-12), Moderada (ILA 30-34.9 / MB 12.1-16), Grave (ILA ≥35 / MB ≥16).
+
+Medicações: Depende da etiologia.
+
+Seguimento: Investigar causa: USG morfológico, TOTG, sorologias.
+
+Pontos Importantes: Etiologias: 60% idiopática, 15% DM, 13% malformação esofágica ou neurológica. Deglutição diminuída: atresia duodenal, atresia esofágica, fístula traqueoesofágica, massa torácica, hérnia diafragmática, distrofia miotônica, anomalia SNC. Urina excessiva: obstrução JUP, nefroblastoma, síndrome Bartter, anomalia cardíaca, taquiarritmia, teratoma sacrococcígeo, corioangioma, DM/DMG, hidropsia fetal, aloimunização, transfusão feto-fetal.
+
+Tempo de Parto: Conforme etiologia e complicações.
+
+
+--------------------------------------------------------------------------------
+
+RUPTURA PREMATURA DE MEMBRANAS (ROPREMA)
+========================================
+
+Definição: Ruptura espontânea das membranas ovulares antes do início do trabalho de parto.
+
+Critérios Diagnóstico: EE (exame especular), teste rechaço, valsalva. Exames duvidosos: Amnisure (alfa microglob1), Quick-check (fibronectina fetal), teste nitrazina (pH>6,5).
+
+Medicações: ATB: ampi 2g EV 6/6h 2d + amoxi 500mg 8/8h 5d + azitro 1g. Corticoterapia 23-36s6d. Neuroprofilaxia 23-31s6d.
+
+Seguimento: Exames: cultura SGB, HMG, PCR, ur1/uroc, USG c/PBF. CTG diário, HMG/PCR/ur1/uroc a cada 3d, USG semanal.
+
+Pontos Importantes: Fatores de risco: ROPREMA gest ant, infecções (corio, VB, DSTs), distensão uterina (polid, gemelar, macross), trauma. Complicações: corio, endometrite, TPP, DPP, hipoplasia pulmonar, Sq Potter. ROPREMA: BR espontâneo. Amniorrexe: BR provocado.
+
+Tempo de Parto: <16s resolução miso | 16-22s6d seguimento ambulatorial semanal até 24s | 23-31s6d CTC, NPX, atb, internação, CTG diário | 32-33s6d CTC, >33s resolução | >34s CTC, indução.
+
+
+--------------------------------------------------------------------------------
+
+
